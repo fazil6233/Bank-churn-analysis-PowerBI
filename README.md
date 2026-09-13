@@ -77,8 +77,8 @@ ownership, and immediately see churn KPIs and trends update.
 ### Walkthrough of Key Visuals
 
 Page 1 — Overview
-- 7 KPI cards: Total, Active/Inactive, Credit Card Holders/Non-Holders,
-  Exit/Retain Customers
+- 6 KPI cards: Total, Active/Inactive, Credit Card Holders/Non-Holders,
+  Exit Customers
 - Column chart: customer volume by year, split by active status
 - Line chart: monthly exit trend vs. previous month, to spot
   improving/worsening periods
